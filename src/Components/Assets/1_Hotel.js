@@ -2,6 +2,7 @@
 
 
 let OneHotel = [
+  // dEPLOY
   {
     id: 471,
     name: "one",
