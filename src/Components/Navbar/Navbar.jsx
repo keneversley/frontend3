@@ -25,6 +25,10 @@ export const Navbar = () => {
         <span className="hamburger"></span>
         <span className="hamburger"></span>
       </div>
+      
+      {/* Overlay for closing the menu */}
+      <div className={`overlay ${isMenuOpen ? "show" : ""}`} onClick={closeMenu}></div>
+
       <ul className={`nav-menu ${isMenuOpen ? "open" : ""}`}>
         <li onClick={() => { setMenu("home"); closeMenu(); }}>
           <Link to="/">Home</Link>
@@ -56,4 +60,5 @@ export const Navbar = () => {
 };
 
 export default Navbar;
+
 

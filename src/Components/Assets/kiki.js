@@ -75,13 +75,13 @@ let kiki = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki22.mp4",
     isVideo: true,
   },
-  {
-    id: 236,
-    name: "Bottle service 4",
-    category: "Kiki",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki102.mp4",
-    isVideo: true,
-  },
+  // {
+  //   id: 236,
+  //   name: "Bottle service 4",
+  //   category: "Kiki",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki102.mp4",
+  //   isVideo: true,
+  // },
 ];
 
 export default kiki;

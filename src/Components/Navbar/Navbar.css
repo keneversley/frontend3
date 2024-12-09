@@ -81,6 +81,22 @@
   background: #FF4141;
 }
 
+/* Overlay styling */
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  z-index: 999; /* Should appear below the nav-menu but above everything else */
+}
+
+.overlay.show {
+  display: block;
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
   .nav-toggle {
