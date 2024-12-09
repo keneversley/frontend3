@@ -61,7 +61,7 @@ const Mansions = () => {
           <p className="bold-underline">Villa Celine</p>
           <h1 className="center-bold">7 bd 6.5 Bth 4,500 sq feet in Brickell</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Villa Celine" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Villa Celine" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -80,7 +80,7 @@ const Mansions = () => {
           <p className="bold-underline">Blockchain Manor</p>
           <h1 className="blockchain-bold">6 bd 4 Bth 4,000 sq feet  with Movie theatre in Miami</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Blockchain Manor" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Blockchain Manor" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -99,7 +99,7 @@ const Mansions = () => {
           <p className="bold-underline">Oasis</p>
           <h1 className="center-bold">4 bd 2 Bath 3,100 sq feet in South Miami</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Oasis" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Oasis" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -118,7 +118,7 @@ const Mansions = () => {
           <p className="bold-underline">Villa Luna</p>
           <h1 className="center-bold">5 bd 4 Bath 3,850 sq feet in Sunny Isles</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Villa Luna" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Villa Luna" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -137,7 +137,7 @@ const Mansions = () => {
     <p className="bold-underline">Villa Mira</p>
     <h1 className="center-bold">6 bd 4.5 Bath 4,600 sq feet in Palm Island</h1>
     <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Villa Mira" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Villa Mira" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -156,7 +156,7 @@ const Mansions = () => {
           <p className="bold-underline">Penthouse Poblado</p>
           <h1 className="center-bold">2 bedrooms 4 bathroons in Columbia</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Penthouse Pablado" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Penthouse Pablado" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -176,7 +176,7 @@ const Mansions = () => {
           <p className="bold-underline">Villa Granada</p>
           <h1 className="center-bold">10 bedrooms 10 bathrooms in Coral Gables </h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Villa Granada" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Villa Granada" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -197,7 +197,7 @@ const Mansions = () => {
           <h1 className="center-bold">4guests 1bedroom 2beds 1bath in Miami Beach </h1>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/onehotellogo.jpg" alt="" className="onehotel-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for One hotel ocean view" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for One hotel ocean view" className="reserve-button">
             Reserve
           </a>
         </div>

@@ -59,7 +59,7 @@ const NightLife = () => {
           <p className="bold-underline">Vendome</p>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/vendomelogo.png" alt="Vendome Logo" className="vendome-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Vendome" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Vendome" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -79,7 +79,7 @@ const NightLife = () => {
           <p className="bold-underline">Hyde Beach</p>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/hydebeachlogo.png" alt="HydeBeach Logo" className="hydebeach-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Hyde Beach" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Hyde Beach" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -100,7 +100,7 @@ const NightLife = () => {
           <p className="bold-underline">Mr Jones </p>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/mrjoneslogo.png" alt="mrjones Logo" className="mrjones-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Mr Jones" className="reserve-button">
+          <a href="mailto:?subject=Reservation Request for Mr Jones" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -121,7 +121,7 @@ const NightLife = () => {
           <p className="bold-underline">E11even Miami  </p>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/ellevenlogo.png" alt="elleven Logo" className="elleven-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Elleven Miami" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Elleven Miami" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -141,7 +141,7 @@ const NightLife = () => {
           <p className="bold-underline">LIV </p>
           <img src= "https://globalasset1.s3.us-east-2.amazonaws.com/livlogo.png" alt="liv Logo" className="liv-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Liv Miami" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Liv Miami" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -161,7 +161,7 @@ const NightLife = () => {
           <p className="bold-underline">Strawberry Moon  </p>
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/strawberrylogo.png" alt="liv Logo" className="strawberry-header-image" />
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Strawberry Moon Miami" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Strawberry Moon Miami" className="reserve-button">
             Reserve
           </a>
         </div>

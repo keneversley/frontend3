@@ -1,15 +1,4 @@
-// `import azimut1 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut1.jpg";
-// import azimut2 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut2.mp4";
-// import azimut3 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut3.jpg";
-// import azimut4 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut4.jpg";
-// import azimut5 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut5.jpg";
-// import azimut6 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut6.jpg";
-// import azimut7 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut7.jpg";
-// import azimut8 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut8.jpg";
-// import azimut9 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut9.jpg";
-// import azimut10 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut10.jpg";
-// import azimut11 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut11.jpg";
-// import azimut12 from "./https://globalasset1.s3.us-east-2.amazonaws.com/90azimut12.jpg";`
+
 
 const Azimut = [
   {
@@ -18,13 +7,13 @@ const Azimut = [
     category: "Yacht",
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/90azimut1.jpg",
   },
-  {
-    id: 288,
-    name: "90azimut2 video",
-    category: "Yacht",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/90azimut2.mp4",
-    isVideo: true,
-  },
+  // {
+  //   id: 288,
+  //   name: "90azimut2 video",
+  //   category: "Yacht",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/90azimut2.mp4",
+  //   isVideo: true,
+  // },
   {
     id: 289,
     name: "90azimut3",

@@ -7,7 +7,7 @@ export const Footer = () => {
     <div className='footer'>
         <div className='footer-logo'>
             <img src="https://globalasset1.s3.us-east-2.amazonaws.com/prestigelogo.JPG" alt="" />
-            <p>HOME</p>
+            <p>ABOUT</p>
         </div>
         At Prestige Global Concierge, we specialize in crafting bespoke luxury experiences that transcend the ordinary. With a global presence and an unwavering commitment to excellence, our dedicated team provides personalized concierge services tailored to the refined tastes of our esteemed clientele. Whether orchestrating exclusive travel itineraries, securing reservations at the world’s most sought-after venues, or managing intricate lifestyle requests, we are devoted to transforming your aspirations into reality.
       

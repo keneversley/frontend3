@@ -25,14 +25,7 @@ let Marion = [
     
     
     },
-    {
-        id: 294,
-        name: " Marion sushit  ",          
-        category: "Marion", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/marionlamb.JPG", 
-    
-    
-    },
+  
     
     
 ];

@@ -50,7 +50,7 @@ const AxoticCars = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/bentleylogo.png" alt="" className="bentley-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Bentley Car" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Bentley Car" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -70,7 +70,7 @@ const AxoticCars = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/sprinterlogo.jpg" alt="" className="sprinter-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Sprinter Van" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Sprinter Van" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -90,7 +90,7 @@ const AxoticCars = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/rangelogo.png" alt="" className="range-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Range Rover Sport" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Range Rover Sport" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -110,7 +110,7 @@ const AxoticCars = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/gwagonlogo.png" alt="" className="range-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Mercedes Gwagon" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Mercedes Gwagon" className="reserve-button">
             Reserve
           </a>
         </div>

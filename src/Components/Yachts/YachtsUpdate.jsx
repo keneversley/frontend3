@@ -74,7 +74,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/azimutlogo.jpg" alt="" className="azimut-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 90FT Azimut Yacht" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 90FT Azimut Yacht" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -94,7 +94,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/leopardlogo.jpg" alt="" className="leopard-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 88ft Leopard Churri Yacht" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 88ft Leopard Churri Yacht" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -114,7 +114,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/azimutlogo.jpg" alt="" className="azimut98-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 98FT Azimut The Round Yacht" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 98FT Azimut The Round Yacht" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -134,7 +134,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/sunseekerlogo.png" alt="" className="sunseeker-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 102 Sunseeker Yacht" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 102 Sunseeker Yacht" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -154,7 +154,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/nirvinalogo.png" alt="" className="nirvina-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 120FT Nirvina Yacth" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 120FT Nirvina Yacth" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -174,7 +174,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/rodmanlogo.png" alt="" className="nirvina-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -194,7 +194,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/leopardlogo.jpg" alt="" className="nirvina-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -214,7 +214,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/pershinglogo.png" alt="" className="pershing-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 110FT Rodman Yacth" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -234,7 +234,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/betsylogo.png" alt="" className="pershing-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for Betsy Yacht" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for Betsy Yacht" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -255,7 +255,7 @@ const YachtsUpdate = () => {
     <img src="https://globalasset1.s3.us-east-2.amazonaws.com/azimutlogo.jpg" alt="" className="azimut60-header-image" />
     <h1 className="center-bold">Miami Florida</h1>
     <div className="reserve-container">
-      <a href="mailto:reservation@example.com?subject=Reservation Request for 60ft Azimut Yacht" className="reserve-button">
+      <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 60ft Azimut Yacht" className="reserve-button">
         Reserve
       </a>
     </div>
@@ -275,7 +275,7 @@ const YachtsUpdate = () => {
           <img src="https://globalasset1.s3.us-east-2.amazonaws.com/pershinglogo.png" alt="" className="pershing92-header-image" />
           <h1 className="center-bold">Miami Florida</h1>
           <div className="reserve-container">
-          <a href="mailto:reservation@example.com?subject=Reservation Request for 92ft Pershing" className="reserve-button">
+          <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 92ft Pershing" className="reserve-button">
             Reserve
           </a>
         </div>
@@ -296,7 +296,7 @@ const YachtsUpdate = () => {
     <img src="https://globalasset1.s3.us-east-2.amazonaws.com/azimutlogo.jpg" alt="" className="azimut103-header-image" />
     <h1 className="center-bold">Miami Florida</h1>
     <div className="reserve-container">
-      <a href="mailto:reservation@example.com?subject=Reservation Request for 103ft Azimut Yacht" className="reserve-button">
+      <a href="mailto:Burinvgroup@gmail.com?subject=Reservation Request for 103ft Azimut Yacht" className="reserve-button">
         Reserve
       </a>
     </div>

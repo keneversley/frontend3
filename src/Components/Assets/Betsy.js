@@ -2,13 +2,13 @@
 
 
 let Betsy = [
-    {
-        id: 423,
-        name: "70 ",
-        category: "Yacht",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/betsy27.mp4",
-        isVideo: true,  // Add a flag to distinguish between video and image
-      },
+    // {
+    //     id: 423,
+    //     name: "70 ",
+    //     category: "Yacht",
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/betsy27.mp4",
+    //     isVideo: true,  // Add a flag to distinguish between video and image
+    //   },
     {
         id: 415,
         name: "70 ",
