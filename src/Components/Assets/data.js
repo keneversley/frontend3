@@ -13,28 +13,28 @@ let data_product = [
         name: " ",
         category: "club",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/elleven11.jpg",
-        link: "http://localhost:3000/nightlifes",
+        link: "https://prestigeglobalconcierge.com/nightlifes",
         },
     {
         id:2,
         name: "",
         category: "blockchain",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/gsideview.jpg",
-        link: "http://localhost:3000/exotics",
+        link: "https://prestigeglobalconcierge.com/exotics",
     },
     {
         id:3,
         name: "",
         category: "blockchain",
         image:  "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse1.jpg",
-        link: "http://localhost:3000/mansions"
+        link: "https://prestigeglobalconcierge.com/mansions"
     },
     {
         id:4,
         name: "",
         category: "blockchain",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/pershing923.PNG",
-        link: "http://localhost:3000/yacht"
+        link: "https://prestigeglobalconcierge.com/yacht"
     },
 
     {
@@ -42,7 +42,7 @@ let data_product = [
         name: "",
         category: "food",
         image:"https://globalasset1.s3.us-east-2.amazonaws.com/baga8.jpg" ,
-        link: "http://localhost:3000/restaurant"  
+        link: "https://prestigeglobalconcierge.com/restaurant"  
      },
 
 ];
