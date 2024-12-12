@@ -1,22 +1,24 @@
 import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import emailjs from '@emailjs/browser';
-import Swal from 'sweetalert2'; // Import Swal for SweetAlert2
-import 'react-datepicker/dist/react-datepicker.css'; // Import DatePicker styles
-import './DatePicker.css'; // Your custom CSS for the DatePicker
+import Swal from 'sweetalert2';
+import 'react-datepicker/dist/react-datepicker.css';
+import './DatePicker.css';
 
 const DatePickerComponent = () => {
   const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState(''); // New state for phone number
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
 
   const handleStartDateChange = (date) => setStartDate(date);
   const handleEndDateChange = (date) => setEndDate(date);
   const handleEmailChange = (e) => setEmail(e.target.value);
+  const handlePhoneChange = (e) => setPhone(e.target.value); // Update phone number
 
   const handleSubmit = () => {
-    if (!startDate || !endDate || !email) {
-      alert('Please select both start and end dates and enter your email.');
+    if (!startDate || !endDate || !email || !phone) {
+      alert('Please select dates, enter your email, and phone number.');
       return;
     }
 
@@ -25,14 +27,15 @@ const DatePickerComponent = () => {
 
     emailjs
       .send(
-        'service_fbmgmvr', // Service ID
-        'template_py3p9lz', // Template ID
+        'service_fbmgmvr', 
+        'template_py3p9lz', 
         {
           formattedStartDate: formattedStartDate,
           formattedEndDate: formattedEndDate,
           email: email,
+          phone: phone, // Include phone in the email template
         },
-        'rCwhpMLQgSUCf-QJ9' // API key
+        'rCwhpMLQgSUCf-QJ9'
       )
       .then(
         (result) => {
@@ -45,10 +48,10 @@ const DatePickerComponent = () => {
             setStartDate(null);
             setEndDate(null);
             setEmail('');
+            setPhone(''); // Clear phone number
           }
         },
         (error) => {
-          console.error('Error sending email:', error.text);
           Swal.fire({
             icon: 'error',
             title: 'Oops...',
@@ -88,6 +91,13 @@ const DatePickerComponent = () => {
         onChange={handleEmailChange}
         placeholder="Enter your email"
         className="email-input"
+      />
+      <input
+        type="tel"
+        value={phone}
+        onChange={handlePhoneChange}
+        placeholder="Enter phone number"
+        className="phone-input"
       />
       <button onClick={handleSubmit} className="submit-btn">
         Request Date

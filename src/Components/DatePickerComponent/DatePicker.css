@@ -33,6 +33,25 @@
 .email-input {
   text-align: center;
 }
+.phone-input {
+  width: 100%;
+  padding: 1vw;
+  margin: 1vw 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1.25vw;
+  box-sizing: border-box;
+  text-align: center;
+}
+.phone-number-input {
+  width: 100%; /* Full width within the container */
+  padding: 10px; /* Adjust padding */
+  margin: 10px 0; /* Spacing around the input */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px; /* Default font size for larger screens */
+  box-sizing: border-box;
+}
 
 .submit-btn {
   display: flex;
@@ -74,11 +93,31 @@
     padding: 2vw;
   }
 
+
   .date-picker-input,
   .email-input,
   .submit-btn {
     font-size: 1vw; /* Reduced font size for larger screens */
     padding: 1vw;
+  }
+  @media (max-width: 320px) {
+    .phone-input {
+      font-size: 3vw;
+      padding: 2vw;
+    }
+  }
+  @media (max-width: 480px) {
+    .phone-number-input {
+      font-size: 14px; /* Reduce font size for smartphones */
+      padding: 8px; /* Adjust padding */
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .phone-input {
+      font-size: 1vw;
+      padding: 1vw;
+    }
   }
 }
 

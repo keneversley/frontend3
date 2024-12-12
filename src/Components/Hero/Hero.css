@@ -32,11 +32,21 @@
     font-size: 26px;
     font-weight: 600;
 }
-.hero-left p{
+/* .hero-left p{
     color: #171717;
-    /* font-size: 100px; */
     font-weight: 700;
     font-size: 5vw;
+} */
+.hero-left p {
+    color: #171717;
+    font-weight: 700;
+    font-size: 5vw;
+    margin-top: 20px; /* Add margin to create space between each <p> */
+}
+
+/* Move the group of <p> tags lower */
+.hero-left > div {
+    margin-top: 50px; /* Push the entire group down */
 }
 /* .hero-hand-icon{
     display: flex;
