@@ -1,18 +1,18 @@
 import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import emailjs from '@emailjs/browser';
-import Swal from 'sweetalert2';
-import 'react-datepicker/dist/react-datepicker.css';
-import './DatePicker.css';
+import Swal from 'sweetalert2'; // Import Swal for SweetAlert2
+import 'react-datepicker/dist/react-datepicker.css'; // Import DatePicker styles
+import './DatePicker.css'; // Your custom CSS for the DatePicker
 
 const DatePickerComponent = () => {
   const [email, setEmail] = useState('');
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
 
-  const handleStartDateChange = date => setStartDate(date);
-  const handleEndDateChange = date => setEndDate(date);
-  const handleEmailChange = e => setEmail(e.target.value);
+  const handleStartDateChange = (date) => setStartDate(date);
+  const handleEndDateChange = (date) => setEndDate(date);
+  const handleEmailChange = (e) => setEmail(e.target.value);
 
   const handleSubmit = () => {
     if (!startDate || !endDate || !email) {
@@ -23,29 +23,40 @@ const DatePickerComponent = () => {
     const formattedStartDate = startDate.toLocaleDateString();
     const formattedEndDate = endDate.toLocaleDateString();
 
-    console.log(`Start Date: ${formattedStartDate}`);
-    console.log(`End Date: ${formattedEndDate}`);
-    console.log(`Email: ${email}`);
-    emailjs.send(
-      "service_x98crwa", //service id
-      "template_0phy65o",//template id
-      {
-        formattedStartDate:formattedStartDate,
-        formattedEndDate:formattedEndDate,
-        email:email,
-      },
-      "YREu23x1xOFs_gpxZ"//api key
-    )
-    .then((result) => {
-      if(result){
-        window.location.reload()
-      }
-      console.log(result.text);
-  }, (error) => {
-      console.log(error.text);
-  })
-
-}
+    emailjs
+      .send(
+        'service_fbmgmvr', // Service ID
+        'template_py3p9lz', // Template ID
+        {
+          formattedStartDate: formattedStartDate,
+          formattedEndDate: formattedEndDate,
+          email: email,
+        },
+        'rCwhpMLQgSUCf-QJ9' // API key
+      )
+      .then(
+        (result) => {
+          if (result.status === 200) {
+            Swal.fire({
+              icon: 'success',
+              title: 'Success!',
+              text: 'Your request has been sent successfully!',
+            });
+            setStartDate(null);
+            setEndDate(null);
+            setEmail('');
+          }
+        },
+        (error) => {
+          console.error('Error sending email:', error.text);
+          Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'Something went wrong. Please try again.',
+          });
+        }
+      );
+  };
 
   return (
     <div className="date-picker-container">
@@ -66,7 +77,7 @@ const DatePickerComponent = () => {
         startDate={startDate}
         endDate={endDate}
         selectsEnd
-        minDate={startDate} // Prevent selecting an end date before the start date
+        minDate={startDate}
         dateFormat="MMMM d, yyyy"
         placeholderText="Select end date"
         className="date-picker-input"
@@ -86,5 +97,6 @@ const DatePickerComponent = () => {
 };
 
 export default DatePickerComponent;
+
 
 
