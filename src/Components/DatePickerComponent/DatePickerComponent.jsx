@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
+import emailjs from '@emailjs/browser';
+import Swal from 'sweetalert2';
 import 'react-datepicker/dist/react-datepicker.css';
 import './DatePicker.css';
 
@@ -24,9 +26,33 @@ const DatePickerComponent = () => {
     console.log(`Start Date: ${formattedStartDate}`);
     console.log(`End Date: ${formattedEndDate}`);
     console.log(`Email: ${email}`);
+    emailjs.send(
+      "service_x98crwa", //service id
+      "template_0phy65o",//template id
+      {
+        formattedStartDate:formattedStartDate,
+        formattedEndDate:formattedEndDate,
+        email:email,
+      },
+      "YREu23x1xOFs_gpxZ"//api key
+    )
+    // Swal.fire({
+    //   title: "Successful",
+    //   icon: "success",
+    //   showCancelButton: false,
+    //   confirmButtonColor: "#3085d6",
+    //   confirmButtonText: "Thank you",
+    // })
+    .then((result) => {
+      if(result){
+        window.location.reload()
+      }
+      console.log(result.text);
+  }, (error) => {
+      console.log(error.text);
+  })
 
-    alert(`Date range selected from ${formattedStartDate} to ${formattedEndDate}`);
-  };
+}
 
   return (
     <div className="date-picker-container">
