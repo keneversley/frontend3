@@ -36,13 +36,6 @@ const DatePickerComponent = () => {
       },
       "YREu23x1xOFs_gpxZ"//api key
     )
-    // Swal.fire({
-    //   title: "Successful",
-    //   icon: "success",
-    //   showCancelButton: false,
-    //   confirmButtonColor: "#3085d6",
-    //   confirmButtonText: "Thank you",
-    // })
     .then((result) => {
       if(result){
         window.location.reload()
