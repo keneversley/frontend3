@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 const Popular = () => {
   return (
     <div className='popular'>
-        <h1>TRENDING IN DHAKA</h1>
+        <h1>TRENDING IN MIAMI</h1>
         <hr />
         <div className='popular-item'>
             {data_product.map((item, i) => (
