@@ -1,11 +1,11 @@
 let kiki = [
-  {
-    id: 290,
-    name: "Kiki video",
-    category: "Kiki",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/kikivid.MP4",
-    isVideo: true, // Add a flag to distinguish between video and image
-  },
+  // {
+  //   id: 290,
+  //   name: "Kiki video",
+  //   category: "Kiki",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/kikivid.MP4",
+  //   isVideo: true, // Add a flag to distinguish between video and image
+  // },
   {
     id: 296,
     name: "Girls on a boat",
