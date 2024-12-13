@@ -20,13 +20,13 @@ let Elleven = [
     category: "club",
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/elleven4.jpeg",
   },
-    {
-    id: 497,
-    name: "11 ",
-    category: "club",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/elleven5.mp4",
-    isVideo: true,
-  },
+  //   {
+  //   id: 497,
+  //   name: "11 ",
+  //   category: "club",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/elleven5.mp4",
+  //   isVideo: true,
+  // },
     {
     id: 498,
     name: "11 ",
