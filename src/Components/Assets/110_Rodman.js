@@ -1,11 +1,11 @@
 
 let Rodman = [
-  {
-    id: 364,
-    name: "110 ",
-    category: "Yacht",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman3.jpg",
-  },
+  // {
+  //   id: 364,
+  //   name: "110 ",
+  //   category: "Yacht",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman3.jpg",
+  // },
   // {
   //   id: 365,
   //   name: "110 ",

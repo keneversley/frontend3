@@ -9,14 +9,14 @@ let Strawberry = [
         
       },
    
-       {
-        id: 519,
-        name: "liv ",
-        category: "club",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/strawberry7.mp4",
-        isVideo: true,
+      //  {
+      //   id: 519,
+      //   name: "liv ",
+      //   category: "club",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/strawberry7.mp4",
+      //   isVideo: true,
         
-      },
+      // },
       {
         id: 517,
         name: "liv ",

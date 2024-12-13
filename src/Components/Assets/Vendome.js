@@ -7,13 +7,13 @@ let Vendome = [
       category: "Vendome",
       image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMECAKE.jpg",
     },
-    {
-      id: 238,
-      name: "50cent",
-      category: "Vendome",
-      image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOME50CENT.mp4",
-      isVideo: true, // Add a flag to distinguish between video and image
-    },
+    // {
+    //   id: 238,
+    //   name: "50cent",
+    //   category: "Vendome",
+    //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOME50CENT.mp4",
+    //   isVideo: true, // Add a flag to distinguish between video and image
+    // },
     {
         id: 242,
         name: "Girls 2",
