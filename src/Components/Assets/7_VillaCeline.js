@@ -19,13 +19,13 @@ let VillaCeline = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine1.jpg" ,  
 
 },
-{
-    id: 89,
-    name: "Bedroom With Picture 2 ",
-    category: "Celine", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine3.jpg" ,  
+// {
+//     id: 89,
+//     name: "Bedroom With Picture 2 ",
+//     category: "Celine", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine3.jpg" ,  
 
-},
+// },
 {
     id: 90,
     name: "Bedroom With Picture 3 ",
@@ -178,13 +178,13 @@ let VillaCeline = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine34.jpg" ,  
 
 },
-{
-    id: 111,
-    name: "Second Kitchen side view ",
-    category: "Celine", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine35.jpg" ,  
+// {
+//     id: 111,
+//     name: "Second Kitchen side view ",
+//     category: "Celine", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine35.jpg" ,  
 
-},
+// },
 
 {
     id: 113,
@@ -201,13 +201,13 @@ let VillaCeline = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine37.jpg" ,  
 
 },
-{
-    id: 115,
-    name: "Bedroom with Hot tub side view",
-    category: "Celine", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine38.jpg" ,  
+// {
+//     id: 115,
+//     name: "Bedroom with Hot tub side view",
+//     category: "Celine", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Celine38.jpg" ,  
 
-},
+// },
 {
     id: 116,
     name: "Hot tub view in bedroom",

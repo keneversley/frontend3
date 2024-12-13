@@ -6,25 +6,25 @@ let Rodman = [
     category: "Yacht",
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman3.jpg",
   },
-  {
-    id: 365,
-    name: "110 ",
-    category: "Yacht",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman4.jpg",
-  },
+  // {
+  //   id: 365,
+  //   name: "110 ",
+  //   category: "Yacht",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman4.jpg",
+  // },
   {
     id: 366,
     name: "110 ",
     category: "Yacht",
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman5.jpg",
   },
-  {
-    id: 372,
-    name: "110 ",
-    category: "Yacht",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman11.mp4",
-    isVideo: true,
-  },
+  // {
+  //   id: 372,
+  //   name: "110 ",
+  //   category: "Yacht",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/rodman11.mp4",
+  //   isVideo: true,
+  // },
 
 {
     id: 362,

@@ -33,14 +33,14 @@ let Bagattelle = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/baga3.jpg",
         
       },
-      {
-        id: 538,
-        name: "baga ",
-        category: "food",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/baga7.mp4",
-        isVideo: true,
+      // {
+      //   id: 538,
+      //   name: "baga ",
+      //   category: "food",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/baga7.mp4",
+      //   isVideo: true,
         
-      },
+      // },
       {
         id: 535,
         name: "baga ",

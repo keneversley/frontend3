@@ -22,13 +22,13 @@ let PenthousePoblado = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebalcony3.JPG",     
 
 },
-{
-    id: 202,
-    name: " Balcony day view ",        
-    category: "Penthouse", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebalcony4.JPG",     
+// {
+//     id: 202,
+//     name: " Balcony day view ",        
+//     category: "Penthouse", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebalcony4.JPG",     
 
-},
+// },
 {
     id: 203,
     name: " Balcony with hot tub and city  ",        
@@ -36,13 +36,13 @@ let PenthousePoblado = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebalcony6.JPG",     
 
 },
-{
-    id: 204,
-    name: " Bedroom with hot tub and city  ",        
-    category: "Penthouse", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebr7.JPG",     
+// {
+//     id: 204,
+//     name: " Bedroom with hot tub and city  ",        
+//     category: "Penthouse", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebr7.JPG",     
 
-},
+// },
 {
     id: 205,
     name: " Bedroom with hot tub view  ",        
@@ -71,13 +71,13 @@ let PenthousePoblado = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthouseinside1.JPG",     
 
 },
-{
-    id: 209,
-    name: " Hot tub view  ",        
-    category: "Penthouse", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebr5.JPG",     
+// {
+//     id: 209,
+//     name: " Hot tub view  ",        
+//     category: "Penthouse", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousebr5.JPG",     
 
-},
+// },
 {
     id: 210,
     name: " Second bedroom view ",         
@@ -106,13 +106,13 @@ let PenthousePoblado = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousesink3.JPG",     
 
 },
-{
-    id: 214,
-    name: " Stove counter top ",         
-    category: "Penthouse", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousesinkview.JPG",     
+// {
+//     id: 214,
+//     name: " Stove counter top ",         
+//     category: "Penthouse", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/penthousesinkview.JPG",     
 
-},
+// },
 {
     id: 215,
     name: " Outside sink and balcony view ",         

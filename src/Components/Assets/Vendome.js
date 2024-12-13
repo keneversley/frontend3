@@ -22,13 +22,13 @@ let Vendome = [
       },
 
     
-    {
-      id: 239,
-      name: "Bryson Tiller",
-      category: "Vendome",
-      image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMEBRYSON.mp4",
-      isVideo: true, // Add a flag to distinguish between video and image
-    },
+    // {
+    //   id: 239,
+    //   name: "Bryson Tiller",
+    //   category: "Vendome",
+    //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMEBRYSON.mp4",
+    //   isVideo: true, // Add a flag to distinguish between video and image
+    // },
     {
         id: 241,
         name: "Girls 1",
@@ -36,13 +36,13 @@ let Vendome = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMEGIRLS.jpeg",
       },
 
-    {
-      id: 240,
-      name: "future",
-      category: "Vendome",
-      image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMEfuture.mp4",
-      isVideo: true, // Add a flag to distinguish between video and image
-    },
+    // {
+    //   id: 240,
+    //   name: "future",
+    //   category: "Vendome",
+    //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/VENDOMEfuture.mp4",
+    //   isVideo: true, // Add a flag to distinguish between video and image
+    // },
   
   
     {

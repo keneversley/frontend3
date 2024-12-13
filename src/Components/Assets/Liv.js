@@ -8,13 +8,13 @@ let Liv = [
         category: "club",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv1.jpg",
       },
-      {
-        id: 512,
-        name: "liv ",
-        category: "club",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv10.mp4",
-        isVideo : true,
-      },
+      // {
+      //   id: 512,
+      //   name: "liv ",
+      //   category: "club",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv10.mp4",
+      //   isVideo : true,
+      // },
       {
         id: 508,
         name: "liv ",
@@ -53,13 +53,13 @@ let Liv = [
         category: "club",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv8.jpg",
       },
-      {
-        id: 511,
-        name: "liv ",
-        category: "club",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv9.mp4",
-        isVideo: true
-      },
+      // {
+      //   id: 511,
+      //   name: "liv ",
+      //   category: "club",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/liv9.mp4",
+      //   isVideo: true
+      // },
       
 ];
 export default Liv

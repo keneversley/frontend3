@@ -8,13 +8,13 @@ let VillaGranada = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse1.jpg",       
     
     },
-    {
-        id: 257,
-        name: " House daytime side view  ",          
-        category: "Granada", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse2.jpg",       
+    // {
+    //     id: 257,
+    //     name: " House daytime side view  ",          
+    //     category: "Granada", 
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse2.jpg",       
     
-    },
+    // },
     {
         id: 258,
         name: " House daytime door view  ",          
@@ -36,13 +36,13 @@ let VillaGranada = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse5.jpg",       
     
     },
-    {
-        id: 261,
-        name: " House daytime garage and side view  ",          
-        category: "Granada", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse6.jpg",       
+    // {
+    //     id: 261,
+    //     name: " House daytime garage and side view  ",          
+    //     category: "Granada", 
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse6.jpg",       
     
-    },
+    // },
     {
         id: 262,
         name: " House garage and side night view  ",          
@@ -64,13 +64,13 @@ let VillaGranada = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse9.jpg",       
     
     },
-    {
-        id: 265,
-        name: " House drive way night view  ",          
-        category: "Granada", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse10.jpg",       
+    // {
+    //     id: 265,
+    //     name: " House drive way night view  ",          
+    //     category: "Granada", 
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadahouse10.jpg",       
     
-    },
+    // },
 
 
     {
@@ -110,20 +110,20 @@ let VillaGranada = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabkyd5.jpg",      
     
     },
-    {
-        id: 249,
-        name: "  pool front view  ",          
-        category: "Granada", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabkyd6.jpg",      
+    // {
+    //     id: 249,
+    //     name: "  pool front view  ",          
+    //     category: "Granada", 
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabkyd6.jpg",      
     
-    },
-    {
-        id: 250,
-        name: "  pool front view  ",          
-        category: "Granada", 
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabkyd10.jpg",      
+    // },
+    // {
+    //     id: 250,
+    //     name: "  pool front view  ",          
+    //     category: "Granada", 
+    //     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabkyd10.jpg",      
     
-    },
+    // },
     {
         id: 251,
         name: "  Closet view  ",          
@@ -491,13 +491,13 @@ let VillaGranada = [
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabdrm24.jpg",      
 
 },
-{
-    id: 240,
-    name: " Bedroom with couch side view",          
-    category: "Granada", 
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabdrm25.jpg",      
+// {
+//     id: 240,
+//     name: " Bedroom with couch side view",          
+//     category: "Granada", 
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Granadabdrm25.jpg",      
 
-},
+// },
 {
     id: 241,
     name: " Bedroom with couch back view",          

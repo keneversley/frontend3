@@ -54,27 +54,27 @@ let kiki = [
     category: "Kiki",
     image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kikicrowd.jpeg",
   },
-  {
-    id: 235,
-    name: "Bottle service 3",
-    category: "Kiki",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki62.mp4",
-    isVideo: true,
-  },
-  {
-    id: 233,
-    name: "Bottle service 1",
-    category: "Kiki",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki72.mp4",
-    isVideo: true,
-  },
-  {
-    id: 234,
-    name: "Bottle service 2",
-    category: "Kiki",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki22.mp4",
-    isVideo: true,
-  },
+  // {
+  //   id: 235,
+  //   name: "Bottle service 3",
+  //   category: "Kiki",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki62.mp4",
+  //   isVideo: true,
+  // },
+  // {
+  //   id: 233,
+  //   name: "Bottle service 1",
+  //   category: "Kiki",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki72.mp4",
+  //   isVideo: true,
+  // },
+  // {
+  //   id: 234,
+  //   name: "Bottle service 2",
+  //   category: "Kiki",
+  //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/Kiki22.mp4",
+  //   isVideo: true,
+  // },
  
 ];
 

@@ -1,13 +1,13 @@
 
 let HydeBeach = [
 
-{
-    id: 246,
-    name: "Video",
-    category: "Hyde",
-    image: "https://globalasset1.s3.us-east-2.amazonaws.com/HydeBeach.mp4",
-   isVideo: true,  // Add a flag to distinguish between video and image
-  },
+// {
+//     id: 246,
+//     name: "Video",
+//     category: "Hyde",
+//     image: "https://globalasset1.s3.us-east-2.amazonaws.com/HydeBeach.mp4",
+//    isVideo: true,  // Add a flag to distinguish between video and image
+//   },
   {
     id: 247,
     name: "Float",
