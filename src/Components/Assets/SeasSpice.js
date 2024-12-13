@@ -24,14 +24,14 @@ let SeaSpice = [
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/seaspice10.jpg",
         
       },
-      {
-        id: 531,
-        name: "sea ",
-        category: "food",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/seaspice18.mp4",
-        isVideo: true,
+      // {
+      //   id: 531,
+      //   name: "sea ",
+      //   category: "food",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/seaspice18.mp4",
+      //   isVideo: true,
         
-      },
+      // },
       {
         id: 525,
         name: "sea ",
