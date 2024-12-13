@@ -50,13 +50,13 @@ let MrJones = [
         category: "hotel",
         image: "https://globalasset1.s3.us-east-2.amazonaws.com/jones42.jpg",
       },
-      {
-        id: 486,
-        name: "103 ",
-        category: "hotel",
-        image: "https://globalasset1.s3.us-east-2.amazonaws.com/jonesgirls1.mp4",
-        isVideo : true
-      },
+      // {
+      //   id: 486,
+      //   name: "103 ",
+      //   category: "hotel",
+      //   image: "https://globalasset1.s3.us-east-2.amazonaws.com/jonesgirls1.mp4",
+      //   isVideo : true
+      // },
      
      
       {
